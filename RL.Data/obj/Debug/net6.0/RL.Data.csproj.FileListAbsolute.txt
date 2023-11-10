@@ -1,0 +1,15 @@
+D:\Tasks\oec-interview\Interview\RL.Data\bin\Debug\net6.0\ProcedureSeedData.csv
+D:\Tasks\oec-interview\Interview\RL.Data\bin\Debug\net6.0\RL.Data.deps.json
+D:\Tasks\oec-interview\Interview\RL.Data\bin\Debug\net6.0\RL.Data.runtimeconfig.json
+D:\Tasks\oec-interview\Interview\RL.Data\bin\Debug\net6.0\RL.Data.dll
+D:\Tasks\oec-interview\Interview\RL.Data\bin\Debug\net6.0\RL.Data.pdb
+D:\Tasks\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.csproj.AssemblyReference.cache
+D:\Tasks\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tasks\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.AssemblyInfoInputs.cache
+D:\Tasks\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.AssemblyInfo.cs
+D:\Tasks\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.csproj.CoreCompileInputs.cache
+D:\Tasks\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.dll
+D:\Tasks\oec-interview\Interview\RL.Data\obj\Debug\net6.0\refint\RL.Data.dll
+D:\Tasks\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.pdb
+D:\Tasks\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.genruntimeconfig.cache
+D:\Tasks\oec-interview\Interview\RL.Data\obj\Debug\net6.0\ref\RL.Data.dll
